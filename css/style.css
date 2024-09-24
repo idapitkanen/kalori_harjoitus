@@ -1,0 +1,19 @@
+div#container{
+    margin: 1rem;
+    padding: 1rem;
+}
+
+div#content{
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+}
+
+form div{
+    margin: 1rem;
+}
+
+label {
+    display: inline-block;
+    width: 80px;
+}
+
